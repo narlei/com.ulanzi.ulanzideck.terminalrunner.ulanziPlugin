@@ -1,5 +1,7 @@
 # Terminal Runner (Ulanzi Deck)
 
+[![Available on Ulanzi Community Store](https://raw.githubusercontent.com/narlei/ulanzicommunitystore/main/docs/badges/ulanzi-community-store.svg)](https://ulanzicommunitystore.narlei.com)
+
 Plugin to execute shell commands from Ulanzi Deck keys.
 
 ## Features
